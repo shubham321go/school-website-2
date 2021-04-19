@@ -1,0 +1,19 @@
+.navbar-inverse-my_nav_bar{
+	background-color: black;
+	position: fixed;
+	width: 100%;
+}
+.icon-bar{
+	color: white;
+}
+#marqueeStyle{
+	background-color:blue;
+	color: white;
+	padding-top:50px;
+}
+#video{
+	width:100%;
+}
+.big primary movie_head{
+	background-color: darkblue;
+}
